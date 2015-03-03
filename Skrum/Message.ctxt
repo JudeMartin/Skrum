@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Message(int,\ int)
+comment1.params=message\ size\ FG
+comment1.target=Message(java.lang.String,\ int,\ java.awt.Color)
+comment2.params=message
+comment2.target=greenfoot.GreenfootImage\ createMessage(java.lang.String)
+comment2.text=Method\ to\ create\ a\ message\ with\ default\ colour\ scheme\ *
+comment3.params=message\ BG\ FG
+comment3.target=greenfoot.GreenfootImage\ createMessage(java.lang.String,\ java.awt.Color,\ java.awt.Color)
+comment3.text=Method\ to\ create\ a\ message\ with\ custom\ colour\ scheme\ *
+comment4.params=message\ size\ FG\ BG
+comment4.target=greenfoot.GreenfootImage\ createMessage(java.lang.String,\ int,\ java.awt.Color,\ java.awt.Color)
+comment5.params=option
+comment5.target=void\ setIsMessageTemporary(boolean)
+comment5.text=Setter\ Method\ that\ initializes\ whether\ to\ display\ message\ temporarily\ or\ permanently\ *
+comment6.params=
+comment6.target=void\ act()
+numComments=7

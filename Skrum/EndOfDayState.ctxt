@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=p\ x\ y
+comment0.target=EndOfDayState(Player,\ int,\ int)
+comment1.params=
+comment1.target=void\ doAction()
+comment1.text=\ doAction()\ function\ is\ called\ to\ perform\ the\ state\ specific\ action.\r\n
+comment2.params=totalHours
+comment2.target=void\ burnUpDownUpdate(int)
+comment2.text=\ burnUpDownUpdate(int\ hours)\ function\ is\ called\ to\ calculate\ burn\ up\ or\ down.\r\n
+comment3.params=
+comment3.target=int\ getState()
+comment4.params=status
+comment4.target=void\ setState(int)
+comment5.params=obj
+comment5.target=void\ attach(Observer)
+comment6.params=obj
+comment6.target=void\ detach(Observer)
+comment7.params=
+comment7.target=void\ notifyObservers()
+comment8.params=
+comment8.target=boolean\ isAutoUserSwitch()
+numComments=9

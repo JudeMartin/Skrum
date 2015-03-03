@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=p\ x\ y
+comment0.target=ThrowProgressDiceX2State(Player,\ int,\ int)
+comment1.params=
+comment1.target=void\ doAction()
+comment1.text=\ doAction()\ function\ is\ called\ to\ perform\ the\ state\ specific\ action.\r\n
+comment2.params=totalHours
+comment2.target=void\ burnUpDownUpdate(int)
+comment2.text=\ burnUpDownUpdate(int\ hours)\ function\ is\ called\ to\ calculate\ burn\ up\ or\ down.\r\n
+numComments=3

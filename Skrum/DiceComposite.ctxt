@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ notifyRoll()
+comment1.params=
+comment1.target=void\ roll()
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=d
+comment3.target=void\ add(Dice)
+comment4.params=
+comment4.target=boolean\ isScrum()
+numComments=5

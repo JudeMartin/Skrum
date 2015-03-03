@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=p\ x\ y
+comment0.target=ImpedimentState(Player,\ int,\ int)
+comment1.params=total
+comment1.target=void\ throwDice(int)
+comment2.params=
+comment2.target=void\ doAction()
+comment2.text=\ doAction()\ function\ is\ called\ to\ perform\ the\ state\ specific\ action.\r\n
+comment3.params=totalHours
+comment3.target=void\ burnUpDownUpdate(int)
+comment3.text=\ burnUpDownUpdate(int\ hours)\ function\ is\ called\ to\ calculate\ burn\ up\ or\ down.\r\n
+comment4.params=
+comment4.target=void\ pickImpediment()
+numComments=5

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=subject
+comment0.target=ConcreteObserver(EndOfDayState)
+comment1.params=h1
+comment1.target=void\ setInitialCOR(Handler)
+comment2.params=
+comment2.target=void\ update()
+numComments=3

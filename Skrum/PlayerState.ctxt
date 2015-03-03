@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=p\ x\ y
+comment0.target=PlayerState(Player,\ int,\ int)
+comment1.params=
+comment1.target=void\ act()
+comment10.params=
+comment10.target=boolean\ isAutoUserSwitch()
+comment2.params=
+comment2.target=void\ activate()
+comment3.params=total
+comment3.target=void\ throwDice(int)
+comment4.params=total
+comment4.target=int\ throwProgressDice(int)
+comment5.params=
+comment5.target=void\ pickTool()
+comment6.params=
+comment6.target=void\ pickImpediment()
+comment7.params=s
+comment7.target=void\ pickOpportunity(OpportunityStrategy)
+comment8.params=
+comment8.target=void\ doAction()
+comment8.text=\ doAction()\ function\ is\ called\ to\ perform\ the\ state\ specific\ action.\r\n
+comment9.params=totalHours
+comment9.target=void\ burnUpDownUpdate(int)
+comment9.text=\ burnUpDownUpdate(int\ hours)\ function\ is\ called\ to\ calculate\ burn\ up\ or\ down.\r\n
+numComments=11
